@@ -1,0 +1,106 @@
+
+main{
+    margin-left:5%;
+    margin-right:5%
+}
+
+button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width:100%;
+    text-align:center;
+}
+
+input,h3, button{
+    display:block;
+    margin-top:4px;
+    margin-bottom: 4px;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    text-shadow: 100px;
+}
+
+
+input{
+    width:100%;
+    color:white
+}
+
+header{
+    height:60px;
+    background-color: rgb(69, 94, 185);
+    text-align: center;   
+}
+
+h1{
+    padding-top:5px; padding-bottom: 5px;
+    color:rgb(255, 255, 255);
+    text-shadow: 40%;
+}
+
+form{
+    margin-right:5px;
+}
+
+
+
+
+
+.main-row{
+    margin-left:10px;
+    margin-right:10px;
+    color:white
+}
+
+.a,.b{
+    border:1px solid rgb(69, 94, 185);
+
+}
+
+.fc-row
+{
+    text-align: center;
+    color:white
+}
+
+.hide{
+    display:none;
+}
+
+
+.todays-fc-div
+{
+    width:20%;
+    background-color: white;
+    color:rgb(69, 94, 185);
+}
+
+
+
+
+
+
+#search-form div{
+    border-top: 1px solid rgb(69, 94, 185);
+}
+
+#display-section{
+    margin-top: 10px;
+    background-color: rgb(69, 94, 185);
+}
+
+#uvi{
+    padding-left:2px;
+    padding-right: 2px;
+    border-radius: 2px;
+}
+
+#city-color{
+    margin-left:10px;
+    margin-right:10px;
+    color:rgb(69, 94, 185);  
+}
